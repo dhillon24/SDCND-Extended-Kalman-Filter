@@ -55,3 +55,9 @@ OUTPUT: values provided by the c++ program to the simulator
 3. Compile: `cmake .. && make` 
    * On windows, you may need to run: `cmake .. -G "Unix Makefiles" && make`
 4. Run it: `./ExtendedKF `
+
+## Videos
+
+* [Dataset 1](https://youtu.be/p2HsPrrqZJA)
+* [Dataset 2](https://youtu.be/aqUtbIR4gzw)
+
